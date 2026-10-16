@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Fruit_Flygrammer
+results/
+*.pyc
+.ipynb_checkpoints/
